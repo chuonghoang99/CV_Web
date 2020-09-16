@@ -7,7 +7,7 @@
 		setTimeout(function(){
 			$('.theme_panel .toggle_bts a.sett').removeClass('active');
 			$('.theme_panel').removeClass('active');
-		}, 3000);
+		}, 2000);
 
 	});
 	
